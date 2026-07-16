@@ -15,16 +15,16 @@ The data pipeline extracts critical operational and customer behavioral insights
 
 ### 2. Customer Segmentation & Value Split (Behavioral Analytics)
 * **Revenue Breakdown:** 
-  * **Once Visited Customers:** Generates **₹1.06M (62.75%)** of total revenue.
-  * **Repeated Customers:** Generates **₹0.63M (37.25%)** of total revenue.
+  * **Repeated Customers:** Generates **₹1.06M (62.75%)** of total revenue.
+  * **Once Visited Customers:** Generates **₹0.63M (37.25%)** of total revenue.
 * **Customer Distribution Volumetrics:**
-  * **Once Visited Customers:** Represents **2.66K (62.44%)** of the customer cohort.
-  * **Repeated Customers:** Represents **1.60K (37.56%)** of the active customer cohort.
+  * **Repeated Customers:** Represents **2.66K (62.44%)** of the customer cohort.
+  * **Once Visited Customers:** Represents **1.60K (37.56%)** of the active customer cohort.
   * *Business Insight: While first-time visitors bring the bulk of immediate sales, the retained 37.56% repeat user base provides a strong foundation for predictable recurring income.*
 
 ### 3. Menu Performance & Product Engineering
 * **Top 10 Food Items Sold (Total Price Contribution):** Highly dominated by **North Indian Noodles (₹18.2K)** and **Spicy Kebab (₹18.2K)**, closely followed by *Crispy Ice Cream* (₹17.3K) and *Garlic Fried Rice* (₹16.6K).
-* **Retention Drivers (Top Items by Repeat Customers):** Interestingly, **Garlic Kebab (₹1.9K)** and **Sweet Noodles (₹1.6K)** serve as the primary drivers for customer loyalty and repeated orders, showing different flavor preferences compared to generic one-time customer attraction metrics.
+* **Retention Drivers (Top Items by Repeat Customers):** Interestingly, **Garlic Kebab (₹1.9K)** and **Sweet Noodles (₹1.6K)**, closely followed by *North Indian Noodles* (₹1.5K).
 
 ### 4. Granular Auditing & Transaction Volume
 * **Order Frequency Tracking:** Tracks individual client metrics displaying an active cluster of high-frequency consumers (e.g., Anil Goud, Anil Kumar, Anil Naidu cohorts) averaging **6 total orders** each, pushing the collective dataset order counter to **4,260 orders**.
