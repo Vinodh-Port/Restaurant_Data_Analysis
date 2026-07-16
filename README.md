@@ -30,3 +30,10 @@ The data pipeline extracts critical operational and customer behavioral insights
 * **Order Frequency Tracking:** Tracks individual client metrics displaying an active cluster of high-frequency consumers (e.g., Anil Goud, Anil Kumar, Anil Naidu cohorts) averaging **6 total orders** each, pushing the collective dataset order counter to **4,260 orders**.
 * **Bulk Volume Buyers:** Tracks intensive bulk consumer consumption led by high-quantity patrons such as *Prasad Rao 29* (**22 quantities purchased**), *Satish Teja 4* (**21**), and *Suresh Kumar 75* (**21**), accumulating a total baseline calculation of **10,594 item items purchased**.
 
+---
+
+## 🛠️ Tech Stack & Analytical Ecosystem
+
+* **Relational Database Server:** Microsoft SQL Server (SSMS) for structuring, clearing data integrity gaps, and testing optimization constraints.
+* **Business Intelligence Tool:** Power BI Desktop for star-schema relational data modeling and interface rendering.
+* **Data Extraction & Ingestion (ETL):** Automated processing pipelines handling Microsoft Excel worksheets and raw tabular CSV data matrices.
